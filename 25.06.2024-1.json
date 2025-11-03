@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Villarreal",
+    "age": 16,
+    "address": {
+        "street": "Brooks Track",
+        "city": "Matthewstad",
+        "state": "Missouri",
+        "zip": "37659"
+    },
+    "contact": {
+        "phone": "+1-964-906-9858",
+        "servicePhone": "800070184"
+    },
+    "birthday": "2009-22-05",
+    "ip": "60.216.21.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Push miss call east class likely long. Them later check leg coach.\nSo then lot bed upon contain chance. Say staff easy less spring history game pull.",
+        "bio": "Dream something south sense group and brother so. Move feel establish feel land bring movie crime.\nWay six street local return husband. Water final make turn sense garden."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
