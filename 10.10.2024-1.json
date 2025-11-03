@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Hancock",
+    "age": 36,
+    "address": {
+        "street": "Caroline Shoal",
+        "city": "South Rickyton",
+        "state": "North Carolina",
+        "zip": "27503"
+    },
+    "contact": {
+        "phone": "944-640-8758",
+        "servicePhone": "800684042"
+    },
+    "birthday": "1989-16-12",
+    "ip": "221.56.227.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop car into probably go water story and. Enter including difficult environment recognize international between.",
+        "bio": "Region admit truth laugh thought reflect me. Already section card into provide.\nWork central each need. A change turn admit give black."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
