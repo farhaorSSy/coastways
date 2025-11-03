@@ -1,0 +1,25 @@
+{
+    "name": "Eric Chang",
+    "age": 11,
+    "address": {
+        "street": "Jasmine Mountains",
+        "city": "Jacksonberg",
+        "state": "South Carolina",
+        "zip": "98216"
+    },
+    "contact": {
+        "phone": "779-290-8981x6320",
+        "servicePhone": "800284741"
+    },
+    "birthday": "2014-27-09",
+    "ip": "132.248.43.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Such spring give friend baby. Direction too term window best Democrat. Key buy exactly cause nature even almost.",
+        "bio": "Live hour material discuss. Imagine keep ask.\nDoctor draw eight rather. Spend table wind begin begin throw father."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
