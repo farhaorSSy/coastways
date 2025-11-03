@@ -1,0 +1,25 @@
+{
+    "name": "David Hood",
+    "age": 81,
+    "address": {
+        "street": "Taylor Brook",
+        "city": "Lake Gregory",
+        "state": "New Hampshire",
+        "zip": "83689"
+    },
+    "contact": {
+        "phone": "+1-417-694-5561",
+        "servicePhone": "800559351"
+    },
+    "birthday": "1944-12-10",
+    "ip": "116.49.66.253",
+    "foo": "bar",
+    "profile": {
+        "about": "President audience but parent. Collection gas military shoulder.\nJoin community hit. Light not bit really senior idea.\nCity right white ahead past. Certain growth travel base nothing.",
+        "bio": "Society himself poor yes successful treat. Agree and lose. Inside size society always professional international from say.\nPlayer north team skin. Face safe whole treat hair especially test."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
