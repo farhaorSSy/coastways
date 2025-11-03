@@ -1,0 +1,25 @@
+{
+    "name": "Edward Andrews",
+    "age": 36,
+    "address": {
+        "street": "Murillo Flats",
+        "city": "East Tonyahaven",
+        "state": "Washington",
+        "zip": "91172"
+    },
+    "contact": {
+        "phone": "731.916.5300",
+        "servicePhone": "800493090"
+    },
+    "birthday": "1989-16-04",
+    "ip": "146.126.165.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Role else left create. Million federal though skin particularly moment prove. Quite hot southern rate ability minute step.\nHave guy where account full. Indicate mouth energy national ago moment.",
+        "bio": "Imagine very professor huge group. Lead performance fact generation need common. Industry type management."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
