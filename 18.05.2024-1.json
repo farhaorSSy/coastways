@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Burton DDS",
+    "age": 33,
+    "address": {
+        "street": "Gillespie Extensions",
+        "city": "Dariusstad",
+        "state": "California",
+        "zip": "53420"
+    },
+    "contact": {
+        "phone": "960-684-1553",
+        "servicePhone": "800284055"
+    },
+    "birthday": "1992-16-07",
+    "ip": "5.11.71.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Tough type prepare return long range TV. Citizen tree management task age grow charge. Thousand her floor future.",
+        "bio": "Financial wide will social worker state history summer. Establish southern six me call. Suffer move including detail stop. Training ok west education modern."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
