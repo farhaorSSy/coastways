@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lyons",
+    "age": 35,
+    "address": {
+        "street": "David Forges",
+        "city": "South Heather",
+        "state": "Illinois",
+        "zip": "72324"
+    },
+    "contact": {
+        "phone": "(471)913-5826",
+        "servicePhone": "800795347"
+    },
+    "birthday": "1990-14-11",
+    "ip": "178.53.21.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Important tell center set. Experience even question film.\nMrs other must majority gas red.\nThus education provide test herself. Science individual offer recent behind interview degree.",
+        "bio": "Perform heart certain store until over in. Tv community black. Support him enjoy western."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
