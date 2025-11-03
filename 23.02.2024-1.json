@@ -1,0 +1,25 @@
+{
+    "name": "Terri Osborn",
+    "age": 77,
+    "address": {
+        "street": "Payne Land",
+        "city": "North Frankburgh",
+        "state": "Colorado",
+        "zip": "10475"
+    },
+    "contact": {
+        "phone": "+1-434-840-9671",
+        "servicePhone": "800468730"
+    },
+    "birthday": "1948-23-04",
+    "ip": "28.172.48.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Century able foreign approach bill. Moment travel month hard. Blue than quite music fast.\nFish two would citizen development air this. Always discuss prove hour religious.",
+        "bio": "Scene ready whole me use.\nSimilar method sometimes huge. Price source side probably. Fly agent and national.\nPresident Mr situation wife detail. Us hard beautiful summer real despite push."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
