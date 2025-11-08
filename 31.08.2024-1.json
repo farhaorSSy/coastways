@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Hernandez",
+    "age": 3,
+    "address": {
+        "street": "Arthur Branch",
+        "city": "Port Devin",
+        "state": "Oregon",
+        "zip": "68117"
+    },
+    "contact": {
+        "phone": "902-746-2647",
+        "servicePhone": "800763319"
+    },
+    "birthday": "2022-24-05",
+    "ip": "160.151.184.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare laugh energy why often produce. Vote picture off scene. Teach tree school power on between start.\nGroup air force four be stage. Character rather do soon difficult federal direction.",
+        "bio": "Cut write thousand. There student especially increase apply successful. Increase executive wait should military top computer."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
