@@ -1,0 +1,25 @@
+{
+    "name": "Dale Johnson",
+    "age": 8,
+    "address": {
+        "street": "Patrick Island",
+        "city": "Devinside",
+        "state": "Kansas",
+        "zip": "27070"
+    },
+    "contact": {
+        "phone": "+1-831-615-8783x24265",
+        "servicePhone": "800338417"
+    },
+    "birthday": "2017-21-02",
+    "ip": "199.35.110.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat carry letter measure onto woman. Past himself mind. Soldier democratic day daughter.",
+        "bio": "Owner war design bit let major. Protect drug firm over.\nYourself year nearly read. Company often rock.\nCar light agree understand. State none her read."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
