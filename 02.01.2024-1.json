@@ -1,0 +1,25 @@
+{
+    "name": "William Brady",
+    "age": 38,
+    "address": {
+        "street": "Murphy Mission",
+        "city": "Lanehaven",
+        "state": "Wisconsin",
+        "zip": "30019"
+    },
+    "contact": {
+        "phone": "001-409-573-1371x0521",
+        "servicePhone": "800505254"
+    },
+    "birthday": "1987-10-11",
+    "ip": "23.45.144.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Sea would child hour. Crime care find.\nFamily voice evidence laugh now. Myself ask glass heart speak take around. Resource safe region size Congress.",
+        "bio": "Money late cut news maintain share. Risk recently reality central have. Among discuss in."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
