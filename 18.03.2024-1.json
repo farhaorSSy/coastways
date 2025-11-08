@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Lane",
+    "age": 68,
+    "address": {
+        "street": "Adam Viaduct",
+        "city": "Thomasview",
+        "state": "New Jersey",
+        "zip": "15600"
+    },
+    "contact": {
+        "phone": "525-932-8627x9700",
+        "servicePhone": "800114504"
+    },
+    "birthday": "1957-08-01",
+    "ip": "58.150.249.76",
+    "foo": "bar",
+    "profile": {
+        "about": "State now manage none machine financial. Study mention and avoid. Very decision firm return difficult worker above.",
+        "bio": "Wide people stay program side imagine. Song or others boy much save management."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
