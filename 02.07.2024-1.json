@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Jimenez",
+    "age": 84,
+    "address": {
+        "street": "Raymond Mount",
+        "city": "Sanchezchester",
+        "state": "Wisconsin",
+        "zip": "03479"
+    },
+    "contact": {
+        "phone": "573-781-0641",
+        "servicePhone": "800088563"
+    },
+    "birthday": "1941-20-11",
+    "ip": "12.138.19.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Data how laugh. Kid hold couple.\nOpen discussion these new weight despite. Rest on study blue resource party.\nPush animal least. Him available with exist what career care wife.",
+        "bio": "Bill million leg half. Where response thousand three watch. None trouble power than end such.\nLoss air employee positive quite after hospital half. Outside free pretty."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
