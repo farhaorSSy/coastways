@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Cook",
+    "age": 56,
+    "address": {
+        "street": "Fletcher Mall",
+        "city": "Acostastad",
+        "state": "Louisiana",
+        "zip": "93133"
+    },
+    "contact": {
+        "phone": "001-742-619-9804",
+        "servicePhone": "800816363"
+    },
+    "birthday": "1969-06-01",
+    "ip": "141.103.230.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark section change design determine thing career. Treatment lawyer kitchen economy phone. Star cost blue six doctor.\nName natural white hour. Measure once rise doctor family and.",
+        "bio": "Check democratic laugh guy concern. Perform run left place democratic federal. Issue some movie room group field worry.\nMan political street then."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
