@@ -1,0 +1,25 @@
+{
+    "name": "Heather Smith",
+    "age": 19,
+    "address": {
+        "street": "Romero Overpass",
+        "city": "East David",
+        "state": "Arizona",
+        "zip": "41333"
+    },
+    "contact": {
+        "phone": "516.335.9891x64104",
+        "servicePhone": "800959689"
+    },
+    "birthday": "2006-24-04",
+    "ip": "197.77.3.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold measure test only five indeed. Discussion teach in land face sport. Surface pattern position letter.\nWant green job marriage newspaper. Apply we term big team. Word raise per various anyone.",
+        "bio": "Let industry already sport not. Carry hotel use cup among. After peace share strong fly off.\nAuthor own pressure. Career defense hope. Skill team year water."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
